@@ -6,7 +6,8 @@ import pandas as pd
 import yfinance as yf
 
 st.write("""
-#Stock Price 
+Stock Price 
+
 Graph of Appl Stock Prices 
 """)
 
