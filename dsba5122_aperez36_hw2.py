@@ -8,7 +8,7 @@ import yfinance as yf
 st.write("""
 Stock Price 
 
-Graph of Appl Stock Prices 
+Graph of Apple Stock Prices 
 """)
 
 #ticker symbol 
